@@ -4,7 +4,7 @@
  * Description: A password generator that combines Rule 30 cellular automaton
  *              and random bytes to produce secure passwords.
  * 
- * Author: Mitchell <mitchell@sdf.otg>
+ * Author: Mitchell <mitchell@sdf.org>
  * Date: August 2024
  * 
  * Compilation: gcc -o passgen passgen.c -lcrypto
